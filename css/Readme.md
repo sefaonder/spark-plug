@@ -1,8 +1,8 @@
 # CSS
 
-- [CSS-Reset](#HTML)
+- [CSS-Reset](#CSS-Reset)
 
-## CSS Reset
+## CSS-Reset
 
 File --> [style-reset.css](style-reset.css)
 
